@@ -4,7 +4,7 @@ import torch.nn.functional as F
 import random
 
 #read all the words
-words = open('MakeMore/data/tnames.txt', 'r').read().splitlines()
+words = open('MyAI/data/tnames.txt', 'r').read().splitlines()
 # random.seed(44)
 # random.shuffle(words)
 
